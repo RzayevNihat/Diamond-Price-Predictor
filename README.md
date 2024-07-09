@@ -7,8 +7,6 @@ This repository contains a Streamlit web application that predicts the price of 
 - [Features](#features)
 - [Data](#data)
 - [Model](#model)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
@@ -46,16 +44,3 @@ The app uses a Gradient Boosting model for predicting diamond prices. The model 
   - Best cross-validation score: 0.98
   - Test score: 0.98
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any features, improvements, or bug fixes.
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Open a pull request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
